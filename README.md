@@ -13,3 +13,9 @@
 ### Word Cloud 2
 ![Word Cloud 2](img/lab_02_2.png)
 
+## Download Collected Data
+
+The gathered data via search results can be downloaded here:
+
+- [download videos.csv](https://raw.githubusercontent.com/ryvcon/lab02-web-data/refs/heads/main/assets/videos.csv)
+- 
